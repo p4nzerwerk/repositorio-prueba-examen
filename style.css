@@ -1,0 +1,75 @@
+body {
+    background-color: aquamarine;
+}
+
+div.header {
+    text-align: center;
+    color: yellow;
+}
+
+p.uno{
+    text-align: center;
+    color: yellow;
+}
+
+p.colorazul{
+    color: blue;
+}
+
+div.uno{
+    background-color: bisque;
+}
+div.dos {
+    position: relative;
+    top: 5px;
+    left: 100px;
+}
+
+p.dos{
+position: relative;
+top: 0px;
+left: 500px;
+color: blue;
+}
+
+p.tres{
+color: blue;
+position: relative;
+top: 0px;
+left: 300px;
+}
+
+p.cicle{
+width: 50%;
+margin: 0%;
+color: orange;
+background-color: blue;
+text-align: center;
+}
+
+
+div.cuatro{
+background-color: orange;
+height: 100px;
+width: 700px;}
+
+table{
+text-align: center;
+}
+
+div.cinco{
+background-color: yellow;
+color: blue;
+}
+
+span{
+color: red;
+}
+
+p.footer{
+text-align: center;
+}
+
+table{
+border: blue;
+}

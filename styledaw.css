@@ -1,0 +1,39 @@
+body{
+background-color: lightgray;
+}
+
+h1.header{
+color: orange;
+text-align: center;
+}
+
+span{
+color: orange;
+}
+
+h2.titulo2{
+color: orange;
+background-color: aquamarine;
+width: 500px;
+}
+
+p.alineacion{
+text-align: center;
+}
+
+div.formulario{
+background-color: orange;
+height: 700px;
+width: 700px;
+}
+
+
+p.footer{
+color: blue;
+background-color: yellow;
+text-align: center;
+}
+
+span{
+color: red;
+}
